@@ -1,0 +1,141 @@
+#fillerspac.transform {
+  margin-top:20px;
+  -webkit-transition:all 0.5s ease-out;
+  -moz-transition:all 0.5s ease-out;
+  -o-transition:all 0.5s ease-out;
+  -ms-transition:all 0.5s ease-out;
+  transition:all 0.5s ease-out;
+}
+
+@media (max-width: 640px) {
+  #fillerspac.turnback {
+    margin-top:-160px;
+    -webkit-transition:all 0.5s ease-out;
+    -moz-transition:all 0.5s ease-out;
+    -o-transition:all 0.5s ease-out;
+    -ms-transition:all 0.5s ease-out;
+    transition:all 0.5s ease-out;
+  }
+}
+
+@media (min-width: 641px) and (max-width: 800px) {
+  #fillerspac.turnback {
+    margin-top:-140px;
+    -webkit-transition:all 0.5s ease-out;
+    -moz-transition:all 0.5s ease-out;
+    -o-transition:all 0.5s ease-out;
+    -ms-transition:all 0.5s ease-out;
+    transition:all 0.5s ease-out;
+  }
+}
+
+@media (min-width: 801px) and (max-width: 1024px) {
+  #fillerspac.turnback {
+    margin-top:-130px;
+    -webkit-transition:all 0.5s ease-out;
+    -moz-transition:all 0.5s ease-out;
+    -o-transition:all 0.5s ease-out;
+    -ms-transition:all 0.5s ease-out;
+    transition:all 0.5s ease-out;
+  }
+}
+
+@media (min-width: 1025px) {
+  #fillerspac.turnback {
+    margin-top:-110px;
+    -webkit-transition:all 0.5s ease-out;
+    -moz-transition:all 0.5s ease-out;
+    -o-transition:all 0.5s ease-out;
+    -ms-transition:all 0.5s ease-out;
+    transition:all 0.5s ease-out;
+  }
+}
+
+@media (max-width: 640px) {
+  #fillerspac {
+    margin-top:-160px;
+  }
+}
+
+@media (min-width: 641px) and (max-width: 800px) {
+  #fillerspac {
+    margin-top:-140px;
+  }
+}
+
+@media (min-width: 801px) and (max-width: 1024px) {
+  #fillerspac {
+    margin-top:-130px;
+  }
+}
+
+@media (min-width: 1025px) {
+  #fillerspac {
+    margin-top:-110px;
+  }
+}
+
+.hoverBlock {
+  height:0%;
+  width:105%;
+  -webkit-transition:all .8s ease;
+  -moz-transition:all .8s ease;
+  -ms-transition:all .8s ease;
+  -o-transition:all .8s ease;
+  transition:all .8s ease;
+}
+
+.gameIcoMobile:hover .hoverBlock {
+  height:105%;
+  width:105%;
+}
+
+.gameIco2:hover .hoverBlock {
+  height:105%;
+  width:105%;
+}
+
+.gameIcoMobile:hover .hoverName {
+  height:40%;
+  width:100%;
+}
+
+.gameIco2:hover .hoverName {
+  height:40%;
+  width:100%;
+}
+
+.hoverName {
+  height:0%;
+  width:100%;
+  -webkit-transition:all .8s ease;
+  -moz-transition:all .8s ease;
+  -ms-transition:all .8s ease;
+  -o-transition:all .8s ease;
+  transition:all .8s ease;
+}
+
+@media (max-width: 640px) {
+  .gameTitle {
+    font-size:10px !important;
+  }
+}
+
+@media (min-width: 641px) and (max-width: 800px) {
+  .gameTitle {
+    font-size:12px !important;
+  }
+}
+
+@media (min-width: 801px) and (max-width: 1024px) {
+  .gameTitle {
+    font-size:15px !important;
+  }
+}
+
+@media (min-width: 1025px) {
+  .gameTitle {
+    font-size:15px !important;
+  }
+}
+

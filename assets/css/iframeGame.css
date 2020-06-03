@@ -1,0 +1,62 @@
+@media (min-width:1200px) {
+  #gameframe {
+    display:inline-block;
+  }
+}
+
+@media (max-width:1199px) {
+  #gameframe {
+    display:inline-block;
+  }
+}
+
+@media (max-width:991px) {
+  #gameframe {
+    position:fixed;
+    top:0px;
+    bottom:0px;
+    right:0px;
+    width:100%;
+    border:none;
+    margin:0;
+    padding:0;
+    overflow:hidden;
+    z-index:999999;
+    height:100%;
+  }
+}
+
+@media (max-width:767px) {
+  #gameframe {
+    position:fixed;
+    top:0px;
+    bottom:0px;
+    right:0px;
+    width:100%;
+    border:none;
+    margin:0;
+    padding:0;
+    overflow:hidden;
+    z-index:999999;
+    height:100%;
+  }
+}
+
+@media (max-width:1199px) {
+  .filler {
+    display:block;
+  }
+}
+
+@media (max-width:991px) {
+  .filler {
+    display:none;
+  }
+}
+
+@media (max-width:767px) {
+  .filler {
+    display:none;
+  }
+}
+

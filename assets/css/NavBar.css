@@ -1,0 +1,66 @@
+#actIMG:hover {
+  background-image:url("../../assets/img/action1.png");
+}
+
+#adventureIMG:hover {
+  background-image:url("../../assets/img/adventure1.png");
+}
+
+#casualIMG:hover {
+  background-image:url("../../assets/img/casual1.png");
+}
+
+#puzzleIMG:hover {
+  background-image:url("../../assets/img/puzzle1.png");
+}
+
+#sportsIMG:hover {
+  background-image:url("../../assets/img/sports1.png");
+}
+
+#strategyIMG:hover {
+  background-image:url("../../assets/img/strategy1.png");
+}
+
+#actIMG {
+  background-image:url("../../assets/img/action.png");
+  background-position:center;
+  background-repeat:no-repeat;
+  background-size:100% 100%;
+}
+
+#casualIMG {
+  background-image:url("../../assets/img/casual.png");
+  background-position:center;
+  background-repeat:no-repeat;
+  background-size:100% 100%;
+}
+
+#adventureIMG {
+  background-image:url("../../assets/img/adventure.png");
+  background-position:center;
+  background-repeat:no-repeat;
+  background-size:100% 100%;
+}
+
+#puzzleIMG {
+  background-image:url("../../assets/img/puzzle.png");
+  background-position:center;
+  background-repeat:no-repeat;
+  background-size:100% 100%;
+}
+
+#sportsIMG {
+  background-image:url("../../assets/img/sports.png");
+  background-position:center;
+  background-repeat:no-repeat;
+  background-size:100% 100%;
+}
+
+#strategyIMG {
+  background-image:url("../../assets/img/strategy.png");
+  background-position:center;
+  background-repeat:no-repeat;
+  background-size:100% 100%;
+}
+

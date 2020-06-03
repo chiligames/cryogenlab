@@ -1,0 +1,64 @@
+div.scrollmenu {
+  background-color:rgb(224,227,226);
+  overflow:auto;
+  white-space:nowrap;
+}
+
+div.scrollmenu a {
+  display:inline-block;
+  color:white;
+  text-align:center;
+  padding:14px;
+  text-decoration:none;
+}
+
+div.scrollmenu a:hover {
+  background-color:#777;
+}
+
+.g_icon {
+  width:100px;
+  height:100px;
+  background-color:grey;
+}
+
+@media (max-width:767px) {
+  .menuIco {
+    width:75px;
+    height:75px;
+    float:none;
+    margin:0px 0px 0px -30px;
+    display:inline-block;
+  }
+}
+
+@media (max-width:991px) {
+  .menuIco {
+    width:100px;
+    height:100px;
+    float:none;
+    margin:0px 0px 0px -45px;
+    display:inline-block;
+  }
+}
+
+@media (max-width:1199px) {
+  .menuIco {
+    width:100px;
+    height:100px;
+    float:none;
+    margin:0px 0px 0px -15px;
+    display:inline-block;
+  }
+}
+
+@media (min-width:1200px) {
+  .menuIco {
+    width:100px;
+    height:100px;
+    float:none;
+    margin:0px 0px 0px -15px;
+    display:inline-block;
+  }
+}
+
