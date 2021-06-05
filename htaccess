@@ -1,0 +1,2 @@
+RewriteEngine on
+RewriteRule privacy-policy/(.+)$ privacy-policy.html [L,QSA]
